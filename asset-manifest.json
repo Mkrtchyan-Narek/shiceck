@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/shicheck/static/js/main.e087df5c.js",
-    "static/js/498.ebf36dfd.chunk.js": "/shicheck/static/js/498.ebf36dfd.chunk.js",
-    "static/js/404.e52d8803.chunk.js": "/shicheck/static/js/404.e52d8803.chunk.js",
-    "static/js/513.bdc087ef.chunk.js": "/shicheck/static/js/513.bdc087ef.chunk.js",
+    "main.js": "/shicheck/static/js/main.ffebbec1.js",
+    "static/js/498.88b02334.chunk.js": "/shicheck/static/js/498.88b02334.chunk.js",
+    "static/js/404.2a476cef.chunk.js": "/shicheck/static/js/404.2a476cef.chunk.js",
+    "static/js/198.86e1ca6e.chunk.js": "/shicheck/static/js/198.86e1ca6e.chunk.js",
     "index.html": "/shicheck/index.html",
-    "main.e087df5c.js.map": "/shicheck/static/js/main.e087df5c.js.map",
-    "498.ebf36dfd.chunk.js.map": "/shicheck/static/js/498.ebf36dfd.chunk.js.map",
-    "404.e52d8803.chunk.js.map": "/shicheck/static/js/404.e52d8803.chunk.js.map",
-    "513.bdc087ef.chunk.js.map": "/shicheck/static/js/513.bdc087ef.chunk.js.map"
+    "main.ffebbec1.js.map": "/shicheck/static/js/main.ffebbec1.js.map",
+    "498.88b02334.chunk.js.map": "/shicheck/static/js/498.88b02334.chunk.js.map",
+    "404.2a476cef.chunk.js.map": "/shicheck/static/js/404.2a476cef.chunk.js.map",
+    "198.86e1ca6e.chunk.js.map": "/shicheck/static/js/198.86e1ca6e.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e087df5c.js"
+    "static/js/main.ffebbec1.js"
   ]
 }

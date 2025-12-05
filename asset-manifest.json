@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/shicheck/static/js/main.0feb41c0.js",
+    "static/js/498.ebf36dfd.chunk.js": "/shicheck/static/js/498.ebf36dfd.chunk.js",
+    "static/js/404.e52d8803.chunk.js": "/shicheck/static/js/404.e52d8803.chunk.js",
+    "static/js/513.bdc087ef.chunk.js": "/shicheck/static/js/513.bdc087ef.chunk.js",
+    "index.html": "/shicheck/index.html",
+    "main.0feb41c0.js.map": "/shicheck/static/js/main.0feb41c0.js.map",
+    "498.ebf36dfd.chunk.js.map": "/shicheck/static/js/498.ebf36dfd.chunk.js.map",
+    "404.e52d8803.chunk.js.map": "/shicheck/static/js/404.e52d8803.chunk.js.map",
+    "513.bdc087ef.chunk.js.map": "/shicheck/static/js/513.bdc087ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0feb41c0.js"
+  ]
+}
